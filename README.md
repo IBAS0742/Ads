@@ -48,10 +48,21 @@
 
 > python
 
+> R
+
 - 脚本类
 > shell
 
 > cmd
+
+- 其他专业软件说明
+> 编写过gis相关的网页和命令行工具
+
+> 使用过地理相关的库
+
+>> (C#版本的 GDAL、GEOS) 可以处理TIFF、geojson、shp 等常见文件
+
+>>（R版本的 GDAL、Raster、ncdf4）处理包括 Tiff、nc、nc4、envi的dat文件
 
 ### 咨询请加我微信
 > sjy_0742
