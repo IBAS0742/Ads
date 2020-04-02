@@ -68,6 +68,11 @@
 >>（R版本的 GDAL、Raster、ncdf4）处理包括 Tiff、nc、nc4、envi的dat文件
 
 ### 咨询请加我微信
+
+> 洽谈负责人（加请注明来自GitHub Ads）
+
+![](./1585829627(1).png)
+
 > sjy_0742
 
 ![](./weixin.png)
